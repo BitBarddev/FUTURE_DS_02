@@ -53,6 +53,10 @@ This dashboard helps marketers:
 • Time campaigns more effectively with demographic insights
 
 🔗 Preview
+
+Model View
+![Model View](https://github.com/user-attachments/assets/1c20f894-1951-4e87-bf82-f066c57412bb)
+
 Campaign Performance Overview
 ![Campaign Performance Overview](https://github.com/user-attachments/assets/e757f86e-9aa6-49a1-8397-90f59e1cfc6f)
 
